@@ -9,7 +9,7 @@ This project focuses on the development of a ray tracing engine built from scrat
 The ray tracer starts from basic shapes and simple lighting, progressing to support advanced features like reflection, refraction, parallelization, and complex material handling, producing highly realistic 3D renders.
 
 # **Features**
-##Basic Ray Tracing (v0.1):
+## Basic Ray Tracing (v0.1):
 
 - Camera setup with origin, resolution, and field of view.
 - Ray-object intersection (supports only spheres).
