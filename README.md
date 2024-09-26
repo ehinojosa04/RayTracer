@@ -40,4 +40,4 @@ The ray tracer starts from basic shapes and simple lighting, progressing to supp
 - Implemented Fresnel’s equations for realistic light behavior.
 - Support for object rotation and scaling to enhance scene composition.
 
-### [Link to Report](https://github.com/ehinojosa04/RayTracer/blob/main/README.md).
+### [Link to Report](https://github.com/ehinojosa04/RayTracer/blob/main/EmilianoHinojosa_Report.pdf).
